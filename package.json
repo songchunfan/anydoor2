@@ -1,0 +1,19 @@
+{
+  "name": "anydoor2",
+  "version": "1.0.0",
+  "description": "Tiny Nodejs Static Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songchunfan/anydoor2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songchunfan/anydoor2/issues"
+  },
+  "homepage": "https://github.com/songchunfan/anydoor2#readme"
+}
