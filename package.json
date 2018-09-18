@@ -1,6 +1,6 @@
 {
   "name": "anydoor2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tiny Nodejs Static Web server",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/songchunfan/anydoor2/issues"
   },
-  "homepage": "https://github.com/songchunfan/anydoor2#readme"
+  "homepage": "https://github.com/songchunfan/anydoor2#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "handlebars": "^4.0.12",
+    "yargs": "^12.0.2"
+  }
 }
