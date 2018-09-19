@@ -37,11 +37,11 @@ const arr = [10,20,30];
 
 for(let i = 0; i<arr.length;i++){
     void setTimeout(_ => {
-        console.log(arr[i])
+        console.log(arr[i])//10,20,30
     },0);
 }
 for(var i = 0; i<arr.length;i++){
     void setTimeout(_ => {
-        console.log(arr[i])
+        console.log(arr[i])//undefined,undefined,undefined
     },0);
 }
